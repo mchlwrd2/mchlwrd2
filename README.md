@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 📫 How to reach me: my name at gmail dot com or on the twitter
+- 📫 How to reach me: my name at gmail dot com
 - ⚡ Fun fact: i have no idea why i'm actually doing this
-- 🌱 I’m currently learning: R and maybe but not really typescript
+
   
 <!--
 **mchlwrd2/mchlwrd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
